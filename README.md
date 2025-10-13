@@ -15,18 +15,18 @@
 
 💻 **Hakkımda**  
  
-- IT ve siber güvenlik alanlarında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve teknik becerilerimi güçlendirmeye önem veriyorum. Gelişime açık, çalışkan ve öğrenmeye hevesli bir yapıya sahibim.  
+- IT ve siber güvenlik alanlarında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve teknik becerilerimi güçlendirmeye önem veriyorum.  
 - Ağ analizi, adli bilişim, kriptografi ve tehdit istihbaratı gibi konularda projeler geliştiriyorum.   
 
 ### En Çok Kullanılan Diller  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff)  
 
 ### Pinned Repolarım  
-- **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, regex arama, MD5 hash, çoklu thread). Python | ⭐ 1  
+- **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, MD5 hash, çoklu thread). Python | ⭐ 1  
 - **[Kyber-RSASimToolkit](https://github.com/ibrahimyigitcetin/Kyber-RSASimToolkit)**: Kyber vs RSA simülasyon aracı (post-kuantum kripto, Shor algoritması testi, TLS 1.3 uyumlu). Python | ⭐ 1  
 - **[PortScanner](https://github.com/ibrahimyigitcetin/PortScanner)**: Ağ port tarama aracı. Python | ⭐ 1  
 - **[Q-PassLeaked](https://github.com/ibrahimyigitcetin/Q-PassLeaked)**: Sızdırılmış şifre checker (Q-Pentest fork). JavaScript | ⭐ 1  
-- **[ScanMatrix](https://github.com/ibrahimyigitcetin/ScanMatrix)**: Sistem/matris tarama aracı. Python | ⭐ 1  
+- **[ScanMatrix](https://github.com/ibrahimyigitcetin/ScanMatrix)**: Derinlemesine sistem/matris tarama aracı. Python | ⭐ 1  
 - **[FolderSleuth](https://github.com/ibrahimyigitcetin/FolderSleuth)**: Klasör dosya değişiklik izleme aracı. Python | ⭐ 1  
 
 ---
