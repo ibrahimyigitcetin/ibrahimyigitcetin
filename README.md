@@ -1,4 +1,4 @@
-# Merhaba! Ben @ibrahimyigitcetin  
+# Merhaba, Ben @ibrahimyigitcetin  
 İstanbul, Türkiye 🇹🇷  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ibrahimyigitcetin&color=blue)](https://github.com/ibrahimyigitcetin) | [LinkedIn](https://www.linkedin.com/in/ibrahim-yi%C4%9Fit-%C3%A7etin-b44209287) | [Medium](https://medium.com/@ibrahimyigitctn)  
