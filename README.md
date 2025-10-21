@@ -6,7 +6,7 @@
 🔒 **Siber Güvenlik Araçları & Framework'ler**  
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0457C?style=for-the-badge&logo=nmap&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-FF0000?style=for-the-badge&logo=fortinet&logoColor=white) ![SIEM](https://img.shields.io/badge/SIEM-0078D7?style=for-the-badge&logoColor=white)  
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-2E3192?style=for-the-badge&logoColor=white) ![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-8A2BE2?style=for-the-badge&logoColor=white) ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-00BFFF?style=for-the-badge&logoColor=white)  
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-2E3192?style=for-the-badge&logoColor=white) ![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-8A2BE2?style=for-the-badge&logoColor=white) ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-808080?style=for-the-badge&logoColor=white)  
 
 🌐 **Programlama & Sistemler**  
 
