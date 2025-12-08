@@ -22,12 +22,12 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=donut&theme=dark) 
 
 ### Pinned Repolarım  
-- **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, MD5 hash, çoklu thread). Python | ⭐ 1  
-- **[Kyber-RSASimToolkit](https://github.com/ibrahimyigitcetin/Kyber-RSASimToolkit)**: Kyber vs RSA simülasyon aracı (post-kuantum kripto, Shor algoritması testi, TLS 1.3 uyumlu). Python | ⭐ 1  
-- **[IW-Ram-Cleaner](https://github.com/ibrahimyigitcetin/IW-Ram-Cleaner)**: Akıllı koruma mekanizmalı, gerçek zamanlı RAM optimizasyonu sunan retro estetikli yönetim aracı. Python | ⭐ 1  
-- **[Q-PassLeaked](https://github.com/ibrahimyigitcetin/Q-PassLeaked)**: Sızdırılmış şifre checker (Q-Pentest fork). JavaScript | ⭐ 1  
-- **[ScanMatrix](https://github.com/ibrahimyigitcetin/ScanMatrix)**: Derinlemesine sistem/matris tarama aracı. Python | ⭐ 1  
-- **[Human-OS](https://github.com/ibrahimyigitcetin/Human-OS)**: Neon arayüzlü, bio-reaktör, radar distribution ve neural topology destekli kişisel yaşam takip sistemi | HTML | ⭐ 1  
+- **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, MD5 hash, çoklu thread). Python | ⭐ 1
+- **[Kyber-RSASimToolkit](https://github.com/ibrahimyigitcetin/Kyber-RSASimToolkit)**: Kyber vs RSA simülasyon aracı (post-kuantum kripto, Shor algoritması testi, TLS 1.3 uyumlu). Python | ⭐ 1
+- **[IW-Ram-Cleaner](https://github.com/ibrahimyigitcetin/IW-Ram-Cleaner)**: Akıllı koruma mekanizmalı, gerçek zamanlı RAM optimizasyonu sunan retro estetikli yönetim aracı. Python | ⭐ 1
+- **[Human-OS](https://github.com/ibrahimyigitcetin/Human-OS)**: Neon arayüzlü, bio-reaktör, radar distribution ve neural topology destekli kişisel yaşam takip sistemi | HTML | ⭐ 1
+- **[Q-PassLeaked](https://github.com/ibrahimyigitcetin/Q-PassLeaked)**: Sızdırılmış şifre checker (Q-Pentest fork). JavaScript | ⭐ 1
+- **[ScanMatrix](https://github.com/ibrahimyigitcetin/ScanMatrix)**: Derinlemesine sistem/matris tarama aracı. Python | ⭐ 1 
 
 ---
 
