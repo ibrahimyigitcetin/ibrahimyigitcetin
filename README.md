@@ -19,7 +19,7 @@
 - Ağ analizi, adli bilişim, kriptografi ve tehdit istihbaratı gibi konularda projeler geliştiriyorum.   
 
 ### En Çok Kullanılan Diller  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff)  
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=donut&theme=dark) 
 
 ### Pinned Repolarım  
 - **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, MD5 hash, çoklu thread). Python | ⭐ 1  
