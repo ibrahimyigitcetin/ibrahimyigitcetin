@@ -31,4 +31,4 @@
 
 ---
 
-![](https://raw.githubusercontent.com/ibrahimyigitcetin/ibrahimyigitcetin/output/github-contribution-grid-snake-dark.svg)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimyigitcetin&show_icons=true&theme=dark)
