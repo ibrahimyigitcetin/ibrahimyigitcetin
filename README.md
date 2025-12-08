@@ -31,4 +31,4 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahimyigitcetin&show_icons=true&theme=dark&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=ibrahimyigitcetin&theme=dark&hide_border=true&background=0d1117)
