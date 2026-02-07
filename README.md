@@ -6,7 +6,7 @@
 🔒 **Siber Güvenlik Araçları & Framework'ler**  
 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-0099CC?style=for-the-badge&logo=cisco&logoColor=white) ![Nmap/Ncat](https://img.shields.io/badge/Nmap-Ncat-0457C?style=for-the-badge&logo=nmap&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-FF0000?style=for-the-badge&logo=fortinet&logoColor=white) ![Hydra](https://img.shields.io/badge/Hydra-E34F26?style=for-the-badge&logoColor=white)  
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-2E3192?style=for-the-badge&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-8B4513?style=for-the-badge&logo=terminal&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-1a5c1a?style=for-the-badge&logo=maltego&logoColor=white) ![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-8A2BE2?style=for-the-badge&logoColor=white) ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-808080?style=for-the-badge&logoColor=white)  
 
 🌐 **Programlama & Sistemler**  
