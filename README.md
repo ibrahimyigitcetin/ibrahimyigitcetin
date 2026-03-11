@@ -17,7 +17,7 @@
 💻 **Hakkımda**  
  
 - IT ve siber güvenlik alanlarında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve teknik becerilerimi güçlendirmeye önem veriyorum.  
-- Sistem yönetimi, adli bilişim, kriptografi ve ITOps, ağ analizi gibi alanlara yönelik projeler geliştiriyorum.   
+- Sistem yönetimi, adli bilişim, kriptografi, ITOps ve ağ analizi gibi alanlara yönelik projeler geliştiriyorum.   
 
 ### En Çok Kullanılan Diller  
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=donut&theme=dark) 
