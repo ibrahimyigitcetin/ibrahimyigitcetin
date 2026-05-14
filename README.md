@@ -9,7 +9,9 @@
 ![FTK Imager](https://img.shields.io/badge/FTK_Imager-8B4513?style=for-the-badge&logo=terminal&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Maltego](https://img.shields.io/badge/Maltego-1a5c1a?style=for-the-badge&logo=maltego&logoColor=white) ![OSINT Framework](https://img.shields.io/badge/OSINT_Framework-8A2BE2?style=for-the-badge&logoColor=white) ![NetworkMiner](https://img.shields.io/badge/NetworkMiner-808080?style=for-the-badge&logoColor=white) ![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-007FFF?style=for-the-badge&logo=wireless&logoColor=white)
 ![Bettercap](https://img.shields.io/badge/Bettercap-00FF00?style=for-the-badge&logo=shield&logoColor=black)
-![Hashcat](https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logo=hashicorp&logoColor=white) 
+![Hashcat](https://img.shields.io/badge/Hashcat-800080?style=for-the-badge&logo=hashicorp&logoColor=white) ![Katana](https://img.shields.io/badge/Katana-FF9800?style=for-the-badge&logo=katana&logoColor=white)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge&logo=shodan&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-00C853?style=for-the-badge&logo=projectdiscovery&logoColor=white)
 
 🌐 **Programlama & Sistemler**  
 
