@@ -23,8 +23,8 @@
 - IT ve siber güvenlik alanlarında kendimi geliştirmeye, yeni teknolojiler öğrenmeye ve teknik becerilerimi güçlendirmeye önem veriyorum.  
 - Web güvenliği, sistem yönetimi, adli bilişim ve bilişim hukuku, ITOps, yapay zeka güvenliği, ağ güvenliği ve kriptografi gibi alanlara yönelik projeler geliştiriyorum.   
 
-### En Çok Kullanılan Diller  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=donut&theme=dark) 
+### En Çok Kullanılan Diller ve İstatistikler
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=donut&theme=dark) ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimyigitcetin&show_icons=true&theme=dark)
 
 ### Pinned Repolarım  
 - **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, MD5 hash, çoklu thread). | Python | ⭐ 1
@@ -33,7 +33,3 @@
 - **[Ticketowsky](https://github.com/ibrahimyigitcetin/Ticketowsky)**: Güvenlik odaklı, tarayıcı tabanlı endüstriyel IT ticket yönetim sistemi. | JavaScript-HTML-CSS | ⭐ 1
 - **[Q-PassLeaked](https://github.com/ibrahimyigitcetin/Q-PassLeaked)**: Sızdırılmış şifre checker (Q-Pentest fork). | JavaScript | ⭐ 1
 - **[ScanMatrix](https://github.com/ibrahimyigitcetin/ScanMatrix)**: Derinlemesine sistem/matris tarama aracı. | Python | ⭐ 1 
-
----
-
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimyigitcetin&show_icons=true&theme=dark)
