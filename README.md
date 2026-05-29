@@ -27,7 +27,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=donut&theme=dark) ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimyigitcetin&show_icons=true&theme=dark)
 
 ### Pinned Repolarım  
-- **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, SHA256 hash, çoklu thread). | Python | ⭐ 1
+- **[TraceWords](https://github.com/ibrahimyigitcetin/TraceWords)**: GDPR/CCPA uyumlu dijital anahtar kelime adli tarama aracı (PII tespiti, SHA-256 hash, çoklu thread). | Python | ⭐ 1
 - **[Kyber-RSASimToolkit](https://github.com/ibrahimyigitcetin/Kyber-RSASimToolkit)**: Kyber vs RSA simülasyon aracı (post-kuantum kripto, Shor algoritması testi, TLS 1.3 uyumlu). | Python | ⭐ 1
 - **[IW-Ram-Cleaner](https://github.com/ibrahimyigitcetin/IW-Ram-Cleaner)**: Akıllı koruma mekanizmalı, gerçek zamanlı RAM optimizasyonu sunan retro estetikli yönetim aracı. | Python | ⭐ 1
 - **[Ticketowsky](https://github.com/ibrahimyigitcetin/Ticketowsky)**: Güvenlik odaklı, tarayıcı tabanlı endüstriyel IT ticket yönetim sistemi. | JavaScript-HTML-CSS | ⭐ 1
