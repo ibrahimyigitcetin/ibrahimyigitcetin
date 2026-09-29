@@ -26,19 +26,6 @@
 
 ### 📊 GitHub İstatistikleri & Dil Dağılımı
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ibrahimyigitcetin&show_icons=true&theme=vue-dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td valign="top" width="50%">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimyigitcetin&layout=compact&theme=vue-dark&hide_border=true&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ibrahimyigitcetin&theme=vue-dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats" />
 </p>
