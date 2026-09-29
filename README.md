@@ -26,6 +26,19 @@
 
 ### 📊 GitHub İstatistikleri & Dil Dağılımı
 
+###  GitHub İstatistikleri & Dil Dağılımı
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img align="center" src="https://streak-stats.demolab.com?user=ibrahimyigitcetin&theme=vue-dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+    </td>
+    <td valign="top" width="50%">
+      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibrahimyigitcetin&theme=vue_dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ibrahimyigitcetin&theme=vue-dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak Stats" />
 </p>
